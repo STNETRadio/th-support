@@ -18,8 +18,6 @@ layout:
     visible: false
 ---
 
-Certainly! Here is the translation of your text into Thai:
-
 ---
 
 # ศูนย์ช่วยเหลือของ STNET Radio
